@@ -2,7 +2,7 @@
 
 In this project, I’ve tried to use Deep Learning and Neural Networks in order to make a biometric classifier with keystroke dynamics. 
 Deep Learning has shown great potential in Biometrics. In this field, there are many exciting techniques and algorithms which can be used to improve these tasks. Deep Learning has tremendous developments over the last few years. So, in this project I’ve tried to discriminate users by their typing rhythms.
-I’ve used the dataset provided here: https://www.cs.cmu.edu/~keystroke/
+I’ve used the dataset provided here: https://www.cs.cmu.edu/~keystroke/ <br />
 Feature sets of the keystroke dynamics data set that are used are:
 -	Latency: It consists of the durations between the key-down of one key to the key-down of the next key.
 ![alt text](https://s17.picofile.com/file/8429691942/1.png)
